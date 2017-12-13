@@ -13,7 +13,7 @@ describe Problem2 do
 
   it 'should return the sum of the even numbers in the array' do
     @p2.fibonacci(1,10)
-    expect(@p2.total).to eq(44)
+    expect(@p2.total).to eq(188)
   end
 
 end
