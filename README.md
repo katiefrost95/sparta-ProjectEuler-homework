@@ -8,6 +8,9 @@ In this repository I used test driven development to create unit tests for the f
 
 In order to run the tests you need to inititalize rspec by running 'rspec --init' in your terminal. After that is done all you have to do is run rspec in the terminal and watch the tests run.
 
+Here is the rspec documentation:
+https://gist.github.com/eliotsykes/5b71277b0813fbc0df56
+
 ### How to add tests
 
 As this is test driven development the tests will be written first before the coding. This means to add a new test go into the fibonacci_spec.rb file, and write out a test in the format:
